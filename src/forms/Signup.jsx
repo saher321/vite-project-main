@@ -11,6 +11,7 @@ const Signup = () => {
      <img src="image/img.jpg" alt="" className='rounded-circle'  style={{width:"80px" , height:"80px"}}/>
      </div>
         {/* form */}
+        {/* new changes */}
         <form className=''>
        
        <div className="form-group ">
